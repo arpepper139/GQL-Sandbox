@@ -1,2 +1,2 @@
 # GQL-Sandbox
-Experimenting with lightweight GQL Sinatra server. 
+Experimenting with lightweight Sinatra server. To be used for GQL experimentation in the future. 
